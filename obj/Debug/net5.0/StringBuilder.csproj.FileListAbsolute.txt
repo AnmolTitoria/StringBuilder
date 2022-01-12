@@ -1,0 +1,16 @@
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\bin\Debug\net5.0\StringBuilder.exe
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\bin\Debug\net5.0\StringBuilder.deps.json
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.json
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\bin\Debug\net5.0\StringBuilder.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\bin\Debug\net5.0\StringBuilder.dll
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\bin\Debug\net5.0\ref\StringBuilder.dll
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\bin\Debug\net5.0\StringBuilder.pdb
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\obj\Debug\net5.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\obj\Debug\net5.0\StringBuilder.AssemblyInfo.cs
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\obj\Debug\net5.0\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\obj\Debug\net5.0\StringBuilder.dll
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\obj\Debug\net5.0\ref\StringBuilder.dll
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\obj\Debug\net5.0\StringBuilder.pdb
+C:\Users\dell\source\repos\Dbfirst\Dbfirst\StringBuilder\obj\Debug\net5.0\StringBuilder.genruntimeconfig.cache
