@@ -20,6 +20,9 @@ namespace StringBuilde
                 }
             }
             sw1.Start();
+            
+           
+            //Line added from the GIthub End
 
 
             StringBuilder sb = new StringBuilder("String Builder");
